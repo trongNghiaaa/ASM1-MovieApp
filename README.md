@@ -35,4 +35,4 @@ Build an Movie App with RESTful API
 ## Technology used :
 
 -   Library : ReactJS , Express JS 
--   Database : MonggoDB
+
