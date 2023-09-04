@@ -1,6 +1,6 @@
 # ASM1 - Movie App
 
-Build an Movie App with RESTful API
+Build an Movie App 
 
 ## Instructions for install and running the code:
 
